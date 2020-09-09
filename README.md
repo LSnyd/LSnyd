@@ -5,7 +5,7 @@
 🔭     &nbsp;&nbsp;  Currently researching Geometric Deep Learning methods </br>
 ⚡      &nbsp;&nbsp;  Experienced with Distributed Ledger Technologies </br>
 👩🏼‍⚕️  &nbsp; Great interest in the medical domain </br>
-💡     &nbsp;&nbsp;  Occasionally I particpate in Hackathons </br>
+💡     &nbsp;&nbsp;  Occasional participation in Hackathons </br>
 
 
 💪🏼     &nbsp; Start, do, learn, improve Mentality </br>
