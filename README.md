@@ -1,11 +1,21 @@
 <h1 align="center">Hi there, I'm Lisa 👋👩🏼‍💻</h1>
 
-👩🏼‍🎓  &nbsp; I'm a curious individual with an educational background in Digital Engineering </br>
-🤓     &nbsp;&nbsp;  Passionate about Machine Learning </br>
-🔭     &nbsp;&nbsp;  Currently researching Geometric Deep Learning methods </br>
-⚡      &nbsp;&nbsp;  Experienced with Distributed Ledger Technologies </br>
-👩🏼‍⚕️  &nbsp; Great interest in the medical domain </br>
-💡     &nbsp;&nbsp;  Occasional participation in Hackathons </br>
+👩🏼‍🎓  &nbsp;&nbsp;   I'm a curious individual taking up space in the tech world </br>
+🤓  &nbsp;&nbsp;  Machine Learning Engineer </br>
+🔭     &nbsp;&nbsp;  Currently researching Federated Learning Methods </br>
+💡      &nbsp;&nbsp;  Experienced with Distributed Ledger Technologies </br>
+👩🏼‍⚕️     &nbsp;&nbsp; Great interest in the medical domain </br>
 
 
-💪🏼     &nbsp; Start, do, learn, improve Mentality </br>
+
+💪🏼     &nbsp; Let's learn, let's educate, let's empower! </br>
+
+**Connect with Me:**
+
+<p align="center">
+  <a href="https://github.com/LSnyd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href=”LinkedIn profile URL”>
+  <a href="https://www.linkedin.com/in/lisaschneider94/" target"blank_"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</a>
+</p>
+
